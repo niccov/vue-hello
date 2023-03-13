@@ -7,7 +7,7 @@ createApp({
       return {
         title: 'red',
         titleText: 'TITOLONE',
-        
+        img: "img/1.webp"
       }
     }
   }).mount('#app')
